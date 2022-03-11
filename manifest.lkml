@@ -12,6 +12,6 @@ application: data-dictionary {
 }
 
 constant: CONNECTION_NAME {
-  value: "choose-connection"
+  value: "google_analytics"
   export: override_required
 }
